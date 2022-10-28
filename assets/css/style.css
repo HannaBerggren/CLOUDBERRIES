@@ -24,3 +24,33 @@ h1 {
     float: left;
     font-size: 300%;
 }
+
+/* Navigation */
+
+#menu {
+    font-size: 110%;
+    letter-spacing: 3px;
+}
+
+#menu, #logo {
+    line-height: 75px;
+}
+
+#menu li {
+    float: right;
+    list-style-type: none;
+    margin-right: 25px;
+}
+
+#menu a {
+    text-decoration: none;
+    color: #325C70;
+}
+
+#menu a:hover {
+    border-bottom: 1px solid #325C70;
+}
+
+.active {
+    border-bottom: 1px solid #325C70;
+}
