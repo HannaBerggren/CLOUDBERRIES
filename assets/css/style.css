@@ -1,4 +1,26 @@
 @import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
 body {
-    font-family: Nanum gothic, sans-serif;
+    font-family: Nanum gothic, Arial;
+    font-weight: 300;
+}
+
+/* Headings and logo */
+
+h1 {
+    font-family: Nanum gothic, Arial;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    color: #325C70;
+}
+
+#logo {
+    float: left;
+    font-size: 300%;
 }
