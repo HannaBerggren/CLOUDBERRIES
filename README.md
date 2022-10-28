@@ -27,9 +27,9 @@ To get inspiration to taste the berry where it fits best.
 Subscribe the newsletter if the reader wants information about where to meet, for example to pick berries together.
 
 ## Footer 
-Added Icons if the user wants to read more thoroughly about cloudberries and go to different pages about cloudberries.
+Added Icon if the user wants to read more to different pages about cloudberries.
 
 https://www.facebook.com/ 
 
-https://en.wikipedia.org/wiki/Rubus_chamaemorus
+
 
