@@ -13,7 +13,7 @@ body {
 
 /* Headings and logo */
 
-h1 {
+h1,h2 {
     font-family: Nanum gothic, Arial;
     text-transform: uppercase;
     letter-spacing: 3px;
@@ -64,29 +64,54 @@ h1 {
     background: url(../css/images/cloudberry\ frontpage.png) no-repeat center center;
     background-size: cover;
     overflow: hidden;
-    
+
 }
 
 /* Information */
 
-#information {
-    height: 600px;
+#info-c {
+    color: #325C70;
+    line-height: 75px;
+    text-align: center;
+    font-size: 200%;
 }
 
-#top-about {
-    padding-top: 30px;
+#p {
+    text-align: center;
+    font-size: 120%;
+    margin: auto;
     width: 50%;
-    margin: 0 auto;
-}
-
-#bottom-about {
-    padding-top: 30px;
-    width: 50%;
-    margin: 0 auto;
+    color:#325C70
+    
 }
 
 #center-about {
+    height: 300px;
+    width: 100%;
+    background: url(../css/images/cloudberries-info.jpg) no-repeat center center;
+}
+
+/* recipe */
+
+#recipe {
+    color: black;
+    background-color: #CEE1F3;
+    list-style-type: none;
+    padding-top: 30px;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+
+#ice-cream {
+    color: black;
     padding-top: 30px;
     width: 50%;
     margin: 0 auto;
 }
+
+h2 {
+    color:black;
+    line-height: 75px;
+}
+
