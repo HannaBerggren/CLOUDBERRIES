@@ -23,6 +23,7 @@ h1 {
 #logo {
     float: left;
     font-size: 300%;
+    margin-left: 30px;
 }
 
 /* Navigation */
@@ -64,4 +65,28 @@ h1 {
     background-size: cover;
     overflow: hidden;
     
+}
+
+/* Information */
+
+#information {
+    height: 600px;
+}
+
+#top-about {
+    padding-top: 30px;
+    width: 50%;
+    margin: 0 auto;
+}
+
+#bottom-about {
+    padding-top: 30px;
+    width: 50%;
+    margin: 0 auto;
+}
+
+#center-about {
+    padding-top: 30px;
+    width: 50%;
+    margin: 0 auto;
 }
