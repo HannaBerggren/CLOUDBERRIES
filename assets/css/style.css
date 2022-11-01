@@ -71,7 +71,7 @@ h1,h2 {
 
 /* Information */
 
-#info-c {
+#about {
     color: #325C70;
     line-height: 4.688rem;
     text-align: center;
@@ -122,15 +122,11 @@ h1,h2 {
     
 }
 
-h2 {
-    color:black;
-    line-height: 75px;
+#vanilla {
+    color: black;
     text-decoration: underline;
-    text-underline-position: under;
-    text-decoration-thickness: 2px;
-    padding-bottom: 2.0rem;
-    
 }
+
  #warm-cloudberries {
     color: black;
     padding-top: 1.875rem;
@@ -170,12 +166,12 @@ h2 {
         
     }
 
-    .subscribe {
+    #subscribe {
         margin: 1.563rem 18.75rem;
     }
 
 
-#h2 {
+h2 {
     color: white;
     line-height: 75px;
     text-decoration: none; 
