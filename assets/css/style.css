@@ -103,7 +103,7 @@ h1,h2 {
     background-color: #CEE1F3;
     list-style-type: none;
     padding-top: 1.25rem;
-    padding-bottom: 1.25rem;
+    padding-bottom: 2.0rem;
     text-align: center;
     
 }
@@ -128,6 +128,7 @@ h2 {
     text-decoration: underline;
     text-underline-position: under;
     text-decoration-thickness: 2px;
+    padding-bottom: 2.0rem;
     
 }
  #warm-cloudberries {
