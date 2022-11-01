@@ -27,9 +27,11 @@ To get inspiration to taste the berry where it fits best.
 Subscribe the newsletter if the reader wants information about where to meet, for example to pick berries together.
 
 ## Footer 
-Added Icon if the user wants to read more to different pages about cloudberries.
+Add Icons if the user wants to read more to different pages about cloudberries.
 
 https://www.facebook.com/ 
+https://www.youtube.com/
+https://www.instagram.com/
 
 
 

@@ -23,7 +23,8 @@ h1,h2 {
 #logo {
     float: left;
     font-size: 300%;
-    margin-left: 30px;
+    margin-left: 1.875rem;
+    
 }
 
 /* Navigation */
@@ -31,6 +32,7 @@ h1,h2 {
 #menu {
     font-size: 110%;
     letter-spacing: 3px;
+    
 }
 
 #menu, #logo {
@@ -40,7 +42,7 @@ h1,h2 {
 #menu li {
     float: right;
     list-style-type: none;
-    margin-right: 25px;
+    margin-right: 1.5625rem;
 }
 
 #menu a {
@@ -59,7 +61,7 @@ h1,h2 {
 /* frontpage-image */
 
 #frontpage-image {
-    height: 600px;
+    height: 37.5rem;
     width: 100%;
     background: url(../css/images/cloudberry\ frontpage.png) no-repeat center center;
     background-size: cover;
@@ -71,11 +73,11 @@ h1,h2 {
 
 #info-c {
     color: #325C70;
-    line-height: 75px;
+    line-height: 4.688rem;
     text-align: center;
     font-size: 200%;
-    margin-top: 30px;
-    margin-bottom: 15px;
+    margin-top: 1.875rem;
+    margin-bottom: 0.938rem;
 }
 
 #p {
@@ -100,18 +102,18 @@ h1,h2 {
     color: black;
     background-color: #CEE1F3;
     list-style-type: none;
-    padding-top: 20px;
-    padding-bottom: 20px;
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
     text-align: center;
     
 }
 
 #ice-cream {
     color: black;
-    padding-top: 30px;
+    padding-top: 1.875rem;
     width: 50%;
     margin: 0 auto;
-    margin-bottom: 10px;
+    margin-bottom: 0.625rem;
     clear: both;
     text-align: left;
     text-decoration: underline;
@@ -130,10 +132,10 @@ h2 {
 }
  #warm-cloudberries {
     color: black;
-    padding-top: 30px;
+    padding-top: 1.875rem;
     width: 50%;
     margin: 0 auto;
-    margin-bottom: 10px;
+    margin-bottom: 0.625rem;
     text-align: left;
     text-decoration: underline;
     text-underline-position: under;
@@ -142,10 +144,10 @@ h2 {
 
  #do-the-following {
     color: black;
-    padding-top: 30px;
+    padding-top: 1.875rem;
     width: 50%;
     margin: 0 auto;
-    margin-bottom: 10px;
+    margin-bottom: 0.625rem;
     text-align: left;
     text-decoration: underline;
     text-underline-position: under;
@@ -157,39 +159,37 @@ h2 {
     margin: 0 auto;
     width: 50%;
     list-style: none;
+    clear: both;
     
  }
 
     #recipe-picture {
-    height: 300px;
-     width: 100%;
-    float: right;
-    background: url(../css/images/vanilla\ ice\ cream.jpg) no-repeat center right;
-    margin-right: 380px;
-}
+        object-fit: fill;
+        text-align: center;
+        
+    }
 
-.form-section {
-    margin-left: 50%;
-    clear: both;
-}
+    .subscribe {
+        margin: 1.563rem 18.75rem;
+    }
+
 
 #h2 {
     color: white;
     line-height: 75px;
     text-decoration: none; 
     text-align: center;
-    margin-bottom: 20px;
+    margin-bottom: 1.875rem;
 }
 
 .signup-form {
-    margin: 150px 10% 0 0;
+    margin: 9.375rem 10% 1.25rem 9.375rem;
     background-color: #325C70;
     color: #fafafa;
-    margin-bottom: 20px;
-    max-width: 500px;
+    max-width: 31.25rem;
     text-decoration: none;
     text-align: left;
-    padding: 30px;
+    padding: 1.875rem;
 }
 
 .text-input {
@@ -206,7 +206,7 @@ h2 {
     border-color: #CE7524;
 }
 .submit-button {
-    margin-top: 10px;
+    margin-top: 12px;
     border-radius: 10px;
     padding: 10px 28px 10px 28px;
     text-align: center;
@@ -243,6 +243,6 @@ footer{
     font-size: 160%;
     margin: 1%;
     padding: 5%;
-    color: #3a3a3a;
+    color: #CE7524;
 }
 
