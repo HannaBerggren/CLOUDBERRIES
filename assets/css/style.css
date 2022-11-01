@@ -98,86 +98,49 @@ h1,h2 {
 
 /* recipe */
 
-#recipe {
-    color: black;
-    background-color: #CEE1F3;
-    list-style-type: none;
+.Vanilla-Ice-cream-with-warm-cloudberries {
+    
+    background-color: #325C70;
     padding-top: 1.25rem;
     padding-bottom: 2.0rem;
-    text-align: center;
+    padding-left: 2rem;
+    
     
 }
+.vanilla-pie {
+    color: white;
+    text-align: left;
+}
 
-#ice-cream {
-    color: black;
+.recipe-subheading {
+    color: white;
     padding-top: 1.875rem;
     width: 50%;
-    margin: 0 auto;
     margin-bottom: 0.625rem;
-    clear: both;
     text-align: left;
     text-decoration: underline;
     text-underline-position: under;
     text-decoration-thickness: 1px;
     
 }
-
-#vanilla {
-    color: black;
-    text-decoration: underline;
-}
-
- #warm-cloudberries {
-    color: black;
-    padding-top: 1.875rem;
-    width: 50%;
-    margin: 0 auto;
-    margin-bottom: 0.625rem;
-    text-align: left;
-    text-decoration: underline;
-    text-underline-position: under;
-    text-decoration-thickness: 1px;
- }
-
- #do-the-following {
-    color: black;
-    padding-top: 1.875rem;
-    width: 50%;
-    margin: 0 auto;
-    margin-bottom: 0.625rem;
-    text-align: left;
-    text-decoration: underline;
-    text-underline-position: under;
-    text-decoration-thickness: 1px;
- }
 
  .content {
     text-align: left;
-    margin: 0 auto;
-    width: 50%;
-    list-style: none;
-    clear: both;
+    color: white;
+    list-style-type: none;
     
  }
 
-    #recipe-picture {
-        object-fit: fill;
-        text-align: center;
-        
-    }
+ .how-to {
+    text-align: left;
+    color: white;
+ }
+
+ /* sign-up form */
 
     #subscribe {
         margin: 1.563rem 18.75rem;
     }
-
-
-h2 {
-    color: white;
-    line-height: 75px;
-    text-decoration: none; 
-    text-align: center;
-    margin-bottom: 1.875rem;
-}
 
 .signup-form {
     margin: 9.375rem 10% 1.25rem 9.375rem;
