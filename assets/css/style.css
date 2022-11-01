@@ -76,16 +76,17 @@ h1,h2 {
     line-height: 4.688rem;
     text-align: center;
     font-size: 200%;
-    margin-top: 1.875rem;
+    margin-top: 4.0rem;
     margin-bottom: 0.938rem;
 }
 
 #p {
-    text-align: center;
+    text-align: justify;
     font-size: 120%;
-    margin: auto;
-    width: 50%;
-    color:#325C70
+    width: auto;
+    color:#325C70;
+    padding-left: 40px;
+    padding-right: 40px;
     
 }
 
@@ -93,6 +94,7 @@ h1,h2 {
     height: 300px;
     width: 100%;
     background: url(../css/images/cloudberries-info.jpg) no-repeat center center;
+    margin-bottom: 4.0rem;
    
 }
 
@@ -100,7 +102,7 @@ h1,h2 {
 
 .Vanilla-Ice-cream-with-warm-cloudberries {
     
-    background-color: #325C70;
+    background-color: #9DB2C1;
     padding-top: 1.25rem;
     padding-bottom: 2.0rem;
     padding-left: 2rem;
@@ -108,12 +110,12 @@ h1,h2 {
     
 }
 .vanilla-pie {
-    color: white;
+    color: black;
     text-align: left;
 }
 
 .recipe-subheading {
-    color: white;
+    color: black;
     padding-top: 1.875rem;
     width: 50%;
     margin-bottom: 0.625rem;
@@ -126,30 +128,38 @@ h1,h2 {
 
  .content {
     text-align: left;
-    color: white;
+    color: black;
     list-style-type: none;
     
  }
 
  .how-to {
     text-align: left;
-    color: white;
+    color: black;
  }
 
  /* sign-up form */
 
     #subscribe {
-        margin: 1.563rem 18.75rem;
+        height: 700px;
+        width: 100%;
+
+    }
+
+    #titel {
+        text-align: center;
+        color: white;
+        margin-bottom: 20px;
     }
 
 .signup-form {
-    margin: 9.375rem 10% 1.25rem 9.375rem;
+    margin: 10% 0 0 30%;
     background-color: #325C70;
     color: #fafafa;
-    max-width: 31.25rem;
+    max-width: 500px;
     text-decoration: none;
     text-align: left;
-    padding: 1.875rem;
+    padding: 2rem;
 }
 
 .text-input {
@@ -182,6 +192,30 @@ h1,h2 {
 .submit-button:hover {
     background-color: #fafafa;
     color: #CE7524;
+}
+
+/* Contact */
+
+#contact {
+    background-color: #CE7524;
+    height: 200px;
+    width: 100%;
+}
+
+#contact-heading {
+    font-size: 150%;
+    letter-spacing: 2px;
+    text-align: center;
+    padding-top: 40px;
+    margin-bottom: 30px;
+    color: black;
+}
+
+#contact-text {
+    font-size: 120%;
+    text-align: center;
+    color: black;
+    padding-bottom: 40px;
 }
 
 /* Footer */
