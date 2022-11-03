@@ -23,7 +23,7 @@ h1,h2 {
 #logo {
     float: left;
     font-size: 300%;
-    margin-left: 1.875rem;
+    margin-left: 1rem;
     
 }
 
@@ -42,7 +42,7 @@ h1,h2 {
 #menu li {
     float: right;
     list-style-type: none;
-    margin-right: 1.5625rem;
+    margin-right: 2rem;
 }
 
 #menu a {
@@ -61,7 +61,7 @@ h1,h2 {
 /* frontpage-image */
 
 #frontpage-image {
-    height: 37.5rem;
+    height: 40rem;
     width: 100%;
     background: url(../css/images/cloudberry\ frontpage.png) no-repeat center center;
     background-size: cover;
@@ -73,11 +73,11 @@ h1,h2 {
 
 #about {
     color: #325C70;
-    line-height: 4.688rem;
+    line-height: 4rem;
     text-align: center;
     font-size: 200%;
-    margin-top: 4.0rem;
-    margin-bottom: 0.938rem;
+    margin-top: 4rem;
+    margin-bottom: 1rem;
 }
 
 #p {
@@ -94,7 +94,7 @@ h1,h2 {
     height: 300px;
     width: 100%;
     background: url(../css/images/cloudberries-info.jpg) no-repeat center center;
-    margin-bottom: 4.0rem;
+    margin-bottom: 4rem;
    
 }
 
@@ -103,8 +103,8 @@ h1,h2 {
 .Vanilla-Ice-cream-with-warm-cloudberries {
     
     background-color: #9DB2C1;
-    padding-top: 1.25rem;
-    padding-bottom: 2.0rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
     padding-left: 2rem;
     
     
@@ -116,9 +116,9 @@ h1,h2 {
 
 .recipe-subheading {
     color: black;
-    padding-top: 1.875rem;
+    padding-top: 2rem;
     width: 50%;
-    margin-bottom: 0.625rem;
+    margin-bottom: 1rem;
     text-align: left;
     text-decoration: underline;
     text-underline-position: under;
@@ -241,21 +241,47 @@ footer{
 }
 
 /* Media queries */
-/* For medium screens size from 440px and down */
+/* For medium screen sizes form 550px wide and up */  
+@media screen and (min-width: 550px) {
+    
+    #menu {
+    
+    float: right;
+    margin-left: 30px;
+    margin-bottom: 20px;
+    width: 100%;
+    font-size: 100%;
+    
+    }
 
-#logo {
+    #logo {
+        
+        float: left;
+        font-size: 100%;
+        margin-left: 1rem;
+        }
+}
+/* For medium screens size from 320px and up */
+@media screen and (min-width: 320px) {
+
+#menu {
+    float: left;
+    line-height: 20px;
+    font-size: 70%;
+    letter-spacing: normal;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}   
+
+#frontpage-image {
+    height: 30rem;
+    width: 100%;
+    background-size: cover;
     
 }
 
-/* For medium screen sizes form 950px wide and down */
-@media screen and (max-width: 950px) {
-    
-    #menu {
-        clear: left;
-        float: left;
-        margin-left: 30px;
-        margin-bottom: 20px;
-        line-height: 25px;
-    }
-    
+#logo {
+    font-size: 200%;
+}
+
 }
