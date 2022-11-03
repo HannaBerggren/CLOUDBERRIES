@@ -33,7 +33,8 @@ A site about Cloudberries, where you get information about the berry, to get ins
 
   - This section will allow the user to see two of the best recipes of what you can do with cloudberries.
 
-![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
+## The recipes can be found here:
+ (https://www.koket.se/varma-hjortron-med-glass-och-havrecrunch) (https://www.koket.se/sandra_dahlberg/efterratter_och_godis/frukt_och_bar/hjortronpaj)
 
 __Subscribe__
 
@@ -91,18 +92,11 @@ This section should describe the process you went through to deploy the project 
   - From the source section drop-down menu, select the Master Branch
   - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
 
-The live link can be found here - https://code-institute-org.github.io/love-running-2.0/index.html 
-
-
-## Credits 
-
-In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism. 
-
-You can break the credits section up into Content and Media, depending on what you have included in your project. 
+The live link can be found here - https://code-institute-org.github.io/love-running-2.0/index.html  
 
 ### Content 
 
-- The text for the Home page was taken from Wikipedia with the search of "Cloudberries" and "Health.
+- The text for the Home page was taken from Wikipedia with the search of "Cloudberries" and "Health".
 - Information of the cloudberries was taken from two different pages.
 (https://en.wikipedia.org/wiki/Rubus_chamaemorus) (https://thebarentsobserver.com/en/arctic/2017/08/all-you-didnt-know-about-cloudberry-healthy-gold-arctic)
 
@@ -115,7 +109,7 @@ https://www.instagram.com/
 
 ### Media
 
-- The photos used on the home and about page are from Wikipedia 
+- The photos used on the home and about page are from Wikipedia.
 
 ## Acknowledgements
 
