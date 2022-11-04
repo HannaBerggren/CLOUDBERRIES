@@ -4,7 +4,7 @@
 
 ![all devices](../CLOUDBERRIES/assets/css/images/alldivices.png "all devices")
 
-## Features and Pictures
+## Pages and Features
 
 ### Existing Features
 
@@ -14,8 +14,6 @@
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 
 ![nav bar](../CLOUDBERRIES/assets/css/images/navbar.png "nav bar")
-
-
 
 - __The landing page image__
 

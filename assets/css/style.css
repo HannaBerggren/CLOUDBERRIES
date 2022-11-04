@@ -47,7 +47,7 @@ h1,h2 {
 
 #menu a {
     text-decoration: none;
-    color: #325C70;
+    color: black;
 }
 
 #menu a:hover {
@@ -72,7 +72,7 @@ h1,h2 {
 /* Information */
 
 #about {
-    color: #325C70;
+    color: black;
     line-height: 4rem;
     text-align: center;
     font-size: 200%;
@@ -84,7 +84,7 @@ h1,h2 {
     text-align: justify;
     font-size: 120%;
     width: auto;
-    color:#325C70;
+    color: black;
     padding-left: 40px;
     padding-right: 40px;
     
