@@ -17,7 +17,7 @@ h1,h2 {
     font-family: Nanum gothic, Arial;
     text-transform: uppercase;
     letter-spacing: 3px;
-    color: #325C70;
+    color: black;
 }
 
 #logo {
@@ -184,7 +184,7 @@ h1,h2 {
     letter-spacing: 2px;
     text-transform: uppercase;
     background-color: #CE7524;
-    color: #fafafa;
+    color: black;
     display: block;
     
 }
@@ -208,13 +208,13 @@ h1,h2 {
     text-align: center;
     padding-top: 40px;
     margin-bottom: 30px;
-    color: white;
+    color: black;
 }
 
 #contact-text {
     font-size: 120%;
     text-align: center;
-    color: white;
+    color: black;
     padding-bottom: 40px;
 }
 
