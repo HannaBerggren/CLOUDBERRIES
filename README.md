@@ -2,7 +2,7 @@
 
 ### A site about Cloudberries, where you get information about the berry, to get inspiration to both pick them and eat them. Users of the website will get two of the best recipes of how to use cloudberries. <br> If the reader wants more information about cloudberries and local places, where you can meet up to pick the berries in different parts of the world, you can sign up for our newsletter. If you have any questions, there is information on how to contact us. <br> The aim of the project is to build a responsive website using HTML and CSS allowing visitors to view it whatever device they have.
 
-![all devices](../CLOUDBERRIES/assets/css/images/alldivices.png "all devices")
+![all devices](../CLOUDBERRIES/assets/css/images/alldevices.png "all devices")
 
 ## Pages and Features
 
@@ -33,7 +33,9 @@
 
   - This section will allow the user to see two of the best recipes of what you can do with cloudberries.
 
-## The recipes can be found here:
+  ![Ice cream](../CLOUDBERRIES/assets/css/images/icecream.png "ice cream")
+
+### The recipes can be found here:
  (https://www.koket.se/varma-hjortron-med-glass-och-havrecrunch) (https://www.koket.se/sandra_dahlberg/efterratter_och_godis/frukt_och_bar/hjortronpaj)
 
 __Subscribe__
