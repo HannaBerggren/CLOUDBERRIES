@@ -154,7 +154,7 @@ The live link can be found here - https://hannaberggren.github.io/CLOUDBERRIES/
 
 ## Credits
 
-- Code Used
+### Code Used
 - Some of the code used for the Logo, Footer, Frontpage image and Navigation bar was taken from the "Loverunning" project, but I have made some changes to make it fit my site.
 
 ## Acknowledgements
