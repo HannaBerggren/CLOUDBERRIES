@@ -264,6 +264,10 @@ footer{
         font-size: 200%;
     }
     
+    #p {
+        font-size: 90%;
+        word-spacing: normal;
+    }
     }
 
     /* For medium screen sizes form 550px wide and up */  
