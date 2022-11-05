@@ -2,7 +2,7 @@
 
 ### A site about Cloudberries, where you get information about the berry, to get inspiration to both pick them and eat them. Users of the website will get two of the best recipes of how to use cloudberries. <br> If the reader wants more information about cloudberries and local places, where you can meet up to pick the berries in different parts of the world, you can sign up for our newsletter. If you have any questions, there is information on how to contact us. <br> The aim of the project is to build a responsive website using HTML and CSS allowing visitors to view it whatever device they have.
 
-![all devices](../CLOUDBERRIES/assets/css/images/alldevices.png "all devices")
+![all devices](./assets/css/images/alldevices.png "all devices")
 
 ## Pages and Features
 
@@ -20,7 +20,8 @@
   - The landing includes a photograph that show the user a clear picture how the berry looks like and what the site is about.
   - This section introduces the user to to grab their attention to both picking and eating the berry.
 
-![Landing Page](../CLOUDBERRIES/assets/css/images/Cloudberries.png "landing page")
+![Landing Page](../CLOUDBERRIES/assets/css/images/cloudberries.png
+ "landing page")
 
 - __About Cloudberries__
 
