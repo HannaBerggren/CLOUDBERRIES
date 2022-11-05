@@ -4,6 +4,8 @@
 
 ![all devices](./assets/css/images/alldevices.png "all devices")
 
+https://ui.dev/amiresponsive?url=https://hannaberggren.github.io/CLOUDBERRIES/
+
 ## Pages and Features
 
 ### Existing Features
@@ -82,7 +84,7 @@ __Subscribe__
 - The text for the Home page was taken from Wikipedia with the search of "Cloudberries" and "Health".
 - Information of the cloudberries was taken from two different pages.
 
-(https://en.wikipedia.org/wiki/Rubus_chamaemorus) 
+(https://en.wikipedia.org/wiki/Rubus_chamaemorus) <br>
 (https://thebarentsobserver.com/en/arctic/2017/08/all-you-didnt-know-about-cloudberry-healthy-gold-arctic)
 
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
@@ -100,10 +102,19 @@ __Subscribe__
 - https://visitumea.se/sites/cb_umea/files/styles/slide_large/public/Hjortron%201.%20Foto%20Visit%20Ume%C3%A5.%20jpg.jpg?h=e5aec6c8&itok=nAnz3Qvl
 - https://chopchop.se/wp-content/uploads/2022/09/Screenshot-2022-09-01-at-10.01.48-796x480.png
 
+## Technoligies Used
+---
+
+### HTML - provides the content and structure for the website.
+### CSS - provides the styling.
+### Gitpod - used to deploy the website.
+### Github - used to host and edit the website.
+### Balsamiq - used to create the wireframes.
+
 ### Wireframes
 
 - Wireframes were created for mobile and desktop.
-- to get an overview of how the page will look when it is finished.
+- To get an overview of how the page will look when it is finished.
 
 ![wireframes 1](./assets/css/images/wireframes1.png "wireframes 1")
 ![wireframes 2](./assets/css/images/wireframes2.png "wireframes 2")
@@ -122,6 +133,8 @@ __Subscribe__
 - I used lighthouse test at https://web.dev/measure and came up with the following scores:
 - The resault can be found here: (https://web.dev/measure/?url=https%3A%2F%2Fhannaberggren.github.io%2FCLOUDBERRIES%2F)
 
+![Lighthouse](./assets/css/images/lighthouse.png "Lighthouse")
+
 ### Validator Testing 
 - <a href = "https://jigsaw.w3.org/css-validator/validator?uri=+https%3A%2F%2Fhannaberggren.github.io%2FCLOUDBERRIES%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=sv">Jigsaw Validator results</a>
  - <a href = "https://validator.w3.org/nu/?doc=https%3A%2F%2Fhannaberggren.github.io%2FCLOUDBERRIES%2F">W3C validator results</a> 
@@ -138,6 +151,11 @@ __Subscribe__
   - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
 
 The live link can be found here - https://hannaberggren.github.io/CLOUDBERRIES/
+
+## Credits
+
+- Code Used
+- Some of the code used for the Logo, Footer, Frontpage image and Navigation bar was taken from the "Loverunning" project, but I have made some changes to make it fit my site.
 
 ## Acknowledgements
 
