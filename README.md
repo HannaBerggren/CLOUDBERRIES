@@ -1,6 +1,6 @@
 # CLOUDBERRIES
 
-### A site about Cloudberries, where you get information about the berry, to get inspiration to both pick them and eat them. Users of the website will get two of the best recipes of how to use cloudberries. <br> If the reader wants more information about cloudberries and local places, where you can meet up to pick the berries in different parts of the world, you can sign up for our newsletter. If you have any questions, there is information on how to contact us. <br> The aim of the project is to build a responsive website using HTML and CSS allowing visitors to view it whatever device they have.
+### A site about Cloudberries, where you get information about the berries, to get inspiration to both pick them and eat them. Users of the website will get two of the best recipes of how to use cloudberries. <br> If the reader wants more information about cloudberries and local places, where you can meet up to pick the berries in different parts of the world, you can sign up for our newsletter. <br> If you have any questions, there is information on how to contact us. <br> The aim of the project is to build a responsive website allowing visitors to view it whatever device they have.
 
 ![all devices](./assets/css/images/alldevices.png "all devices")
 
@@ -10,8 +10,7 @@
 
 - __Navigation Bar__
 
-  - Featured on the first page to allow easy navigation, the full responsive navigation bar includes links to the Logo, Home page, About page, Recipe page and Subscribe page.
-  - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
+  - Featured on the first page to allow easy navigation, the navigation bar includes links to the Logo, Home page, About page, Recipe page and Subscribe page.
 
 ![nav bar](./assets/css/images/navbar.png "nav bar")
 
@@ -24,8 +23,8 @@
 
 - __About Cloudberries__
 
-  - Information about cloudberries, where the berry grows in the world and how you can use it in different ways. The health benefits of the cloudberries. 
-  - The user may have the problems that the health properties of the berry can help with.
+  - Information about cloudberries, where the berry grows in the world and how you can use it in different ways. And some information about the health benefits of the cloudberries. 
+  - That readers who have specific health problems that the berries can help heal.
 
 ![About Cloudberries](./assets/css/images/about.png "about")
 
@@ -68,7 +67,7 @@ __Subscribe__
 ### Colours
 
   - I been trying to get good visibility using the contrast of the different colors so that the visually impaired can easily see everything that is written.
-  - I have also tried to make my page look happy by mixing the colors from my palette in a tasteful way 
+  - I have also tried to make my page look happy by mixing the colors from my palette in a tasteful way.
   
   ![colors](./assets/css/images/colors.png "colors")
 
@@ -82,18 +81,24 @@ __Subscribe__
 
 - The text for the Home page was taken from Wikipedia with the search of "Cloudberries" and "Health".
 - Information of the cloudberries was taken from two different pages.
-(https://en.wikipedia.org/wiki/Rubus_chamaemorus) (https://thebarentsobserver.com/en/arctic/2017/08/all-you-didnt-know-about-cloudberry-healthy-gold-arctic)
+
+(https://en.wikipedia.org/wiki/Rubus_chamaemorus) 
+(https://thebarentsobserver.com/en/arctic/2017/08/all-you-didnt-know-about-cloudberry-healthy-gold-arctic)
 
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
-- The links to my icons if the user wants to read more to different pages about cloudberries:
 
-https://www.facebook.com/ 
-https://www.youtube.com/
-https://www.instagram.com/
+### The links to my icons if the user wants to read more on different pages about cloudberries:
+
+- https://www.facebook.com/ <br>
+- https://www.youtube.com/ <br>
+- https://www.instagram.com/ <br>
 
 ### Media
 
-- The photos used on the home and about page was taken from Wikipedia.
+- The photos used on the home and about page was taken from Google.
+
+- https://visitumea.se/sites/cb_umea/files/styles/slide_large/public/Hjortron%201.%20Foto%20Visit%20Ume%C3%A5.%20jpg.jpg?h=e5aec6c8&itok=nAnz3Qvl
+- https://chopchop.se/wp-content/uploads/2022/09/Screenshot-2022-09-01-at-10.01.48-796x480.png
 
 ### Wireframes
 
@@ -103,9 +108,13 @@ https://www.instagram.com/
 ![wireframes 1](./assets/css/images/wireframes1.png "wireframes 1")
 ![wireframes 2](./assets/css/images/wireframes2.png "wireframes 2")
 
+### Missings links
+
+- The submit button links you back to the homepage, since the right direction doesen't exist today.
+
 ### Features Left to Implement
 
-- Another feature idea is to make a schedule of where the viewers can meet in the world to meet together and pick the berries together. To add more pictures of the recipe side and icons of showing for how many people the recipe is for.
+- Another feature idea is to make a schedule of where the viewers can meet in the world to meet up and pick the berries together. To add more pictures of the recipe side and add icons to make the page more appealing, for example so you can easily see how many people the recipe is for.
 
 
 ## Testing 
@@ -118,7 +127,7 @@ https://www.instagram.com/
  - <a href = "https://validator.w3.org/nu/?doc=https%3A%2F%2Fhannaberggren.github.io%2FCLOUDBERRIES%2F">W3C validator results</a> 
 
 ### Fixed Bugs
-- I fixed two errors in validator.w3 "No p element in scope a p end tag seen. I just removed that.
+- I fixed two errors in validator.w3 "No p element in scope and p end tag seen". I just removed that.
  The second error was "Stray end tag div". All I had to do was to remove the space between my h2 and h3 heading.
 
 ## Deployment 
@@ -132,7 +141,7 @@ The live link can be found here - https://hannaberggren.github.io/CLOUDBERRIES/
 
 ## Acknowledgements
 
-The site was completed as a Portfolio 1 Project piece for the Full Stack Software Developer (e-Commerce) Diploma at the Code Institute. I would like to thank my mentor Precious Ijege, the Slack community, and all at the Code Institute for their help and support.
+The site was completed as a Portfolio 1 Project piece for the Full Stack Software Developer (e-Commerce) Diploma at the Code Institute. I would like to thank my mentor Precious Ijege, Slack community, and all at the Code Institute for their help and support.
 
 Hanna Berggren 2022.
 
