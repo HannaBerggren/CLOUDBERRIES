@@ -34,7 +34,7 @@ https://ui.dev/amiresponsive?url=https://hannaberggren.github.io/CLOUDBERRIES/
 
   - This section will allow the user to see two of the best recipes of what you can do with cloudberries.
 
-  ![Ice cream](./assets/css/images/icecream.png)
+![Ice cream](./assets/css/images/icecream.png)
 
 ### The recipes can be found here:
  https://www.koket.se/varma-hjortron-med-glass-och-havrecrunch <br> https://www.koket.se/sandra_dahlberg/efterratter_och_godis/frukt_och_bar/hjortronpaj
@@ -123,17 +123,22 @@ https://thebarentsobserver.com/en/arctic/2017/08/all-you-didnt-know-about-cloudb
 
 - The submit button links you back to the homepage, since the right direction doesen't exist.
 
+### Information that doesn't work
+
+- The phone number and email address are made up because the page doesn't exist.
+
 ### Features Left to Implement
 
-- Another feature idea is to make a schedule of where the viewers can meet in the world to meet up and pick the berries together. To add more pictures of the recipe side and add icons to make the page more appealing, for example so you can easily see how many people the recipe is for.
+- Another feature idea is to make a schedule of where the viewers can meet in the world to meet up and pick the berries together. To add more pictures of the recipe side and add icons to make the page more appealing, for example so you easily can see how many people the recipe is for.
 
 
 ## Testing 
 
 - I used lighthouse test at [lighthouse](https://web.dev/measure) and came up with the following scores:
-- The resault can be found here: https://web.dev/measure/?url=https%3A%2F%2Fhannaberggren.github.io%2FCLOUDBERRIES%2F
 
 ![Lighthouse](./assets/css/images/lighthouse.png)
+
+- The resault can be found here: https://web.dev/measure/?url=https%3A%2F%2Fhannaberggren.github.io%2FCLOUDBERRIES%2F
 
 ### Validator Testing 
 - <a href = "https://jigsaw.w3.org/css-validator/validator?uri=+https%3A%2F%2Fhannaberggren.github.io%2FCLOUDBERRIES%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=sv">Jigsaw Validator results</a>
@@ -141,7 +146,7 @@ https://thebarentsobserver.com/en/arctic/2017/08/all-you-didnt-know-about-cloudb
 
 ### Fixed Bugs
 - I fixed two errors in validator.w3 "No p element in scope and p end tag seen". I just removed that.
- The second error was "Stray end tag div". All I had to do was to remove the space between my h2 and h3 heading.
+ <br> The second error was "Stray end tag div". All I had to do was to remove the space between my h2 and h3 heading.
 
 ## Deployment 
 
@@ -155,7 +160,7 @@ The live link can be found here - https://hannaberggren.github.io/CLOUDBERRIES/
 ## Credits
 
 ### Code Used
-- Some of the code used for the Logo, Footer, Frontpage image and Navigation bar was taken from the "Loverunning" project, but I have made some changes to make it fit my site.
+- Some of the code used for the Logo, Footer, Frontpage image and Navigation bar was taken from the "Loverunning" project, but I've made some changes to make it fit my site.
 
 ## Acknowledgements
 
